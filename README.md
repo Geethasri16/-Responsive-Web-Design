@@ -1,2 +1,33 @@
-# -Responsive-Web-Design
-Responsive restaurant website (HTML5, CSS3, Bootstrap 4, custom styling). Clean navigation, engaging landing, menu exploration, healthy food highlights, delivery/payment options, rewards, social media. Smooth, user-friendly across all devices.
+🍴 Delicious Restaurant Website
+
+A clean and responsive restaurant-themed website built using HTML5 and CSS3.
+This project is a simple, mobile-friendly restaurant website. It highlights delicious menus, healthy food sections, delivery and payment options, customer rewards, and social media links—all styled with modern web design techniques.
+
+🛠️ Technologies Used
+- HTML5
+- CSS3
+- Bootstrap 4 (optional if used)
+- Responsive Web Design principles
+
+ 📂 Project Structure
+
+/delicious.html       --> Main HTML file
+/deliciouss.css       --> Custom CSS stylesheet
+
+ ✨ Features
+- Clean landing page
+- Menu exploration section
+- Healthy food promotion
+- Delivery and payment options
+- Loyalty rewards for customers
+- Social media links
+- Fully responsive for mobile and desktop
+
+ 🚀 How to Run
+1. Clone the repository.
+2. Open `delicious.html` in your browser.
+3. Explore the website!
+
+ 📢 Credits
+Made as part of practice in **Web Development Learning**.  
+Feel free to fork and customise!
