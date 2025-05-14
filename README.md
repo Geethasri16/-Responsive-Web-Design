@@ -9,10 +9,6 @@ This project is a simple, mobile-friendly restaurant website. It highlights deli
 - Bootstrap 4 (optional if used)
 - Responsive Web Design principles
 
- 📂 Project Structure
-
-/delicious.html       --> Main HTML file
-/deliciouss.css       --> Custom CSS stylesheet
 
  ✨ Features
 - Clean landing page
